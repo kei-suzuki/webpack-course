@@ -18,10 +18,9 @@
   },
   "homepage": "https://github.com/kei-suzuki/webpack-course#readme",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1"
   },
-  "dependencies": {
-    "live-server": "^1.2.1"
-  }
+  "dependencies": {}
 }
